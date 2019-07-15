@@ -1,0 +1,28 @@
+  h1 {
+      color: MEDIUMAQUAMARINE;
+      font-size: 30px;
+      font-style: italic;
+    }
+
+  h2 {
+      color: pink;
+      font-size: 18px;
+      font-family: monospace;
+    }
+
+    strong {
+      font-family:monospace;
+      font-size: 15px;
+    }
+
+
+    body{
+      background-color: whitesmoke;
+    }
+
+    img{
+      height: 305px;
+      width: 229px;
+      float: right;
+    }
+    
